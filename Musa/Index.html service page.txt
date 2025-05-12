@@ -1,0 +1,17 @@
+
+
+                                                   SERVICE HTML
+<DOCTYPE html>
+<html lang= "en">
+<head>
+<meta cherset="UTF-8">
+<link relation="stylesheet" href=STYLE.CSS">
+<title codetelligence/tittle>
+</head>
+<body>
+<ul>
+<p>You can get us or contact to one codetelligence saocial media platform such as facebook,twitter and instagram.The missionof the codetelligence is to push for students to completethe classes within a short period of 18 months</p>
+<li><a href=service html target_"blank index </li></a>
+</body>
+<html>
+
